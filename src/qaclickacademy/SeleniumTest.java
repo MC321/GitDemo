@@ -21,6 +21,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUiuiui");
 	}
+	@Test
+	public void elementsUiuiuistfg()
+	{
+		System.out.println("elementsUiuiuistdgf");
+	}
 }
 
 //execute all test cases from Test folder using mvn test
